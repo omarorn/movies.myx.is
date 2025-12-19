@@ -1,0 +1,5 @@
+{
+  "name": "ScriptToScreen AI",
+  "description": "Transform your PDF scripts into cinematic AI-generated movie scenes using Gemini 3 and Veo. Upload a script and watch your vision come to life.",
+  "requestFramePermissions": []
+}
